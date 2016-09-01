@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><data>
+    <branches>
+        <BranchID>
+            4
+        </BranchID>
+        <ManagerID>
+            2
+        </ManagerID>
+        <DBName>nbsERP_Kurunegala</DBName>
+        <ServiceName>
+            nbsBankingErp
+        </ServiceName>
+        <Port>
+            2030
+        </Port>
+        <IP>192.168.1.100</IP>
+        <Password>
+            9eoCTIvwb4RQrYNixk+F3kULglKwyUHy
+        </Password>
+        <DBPort>
+            3306
+        </DBPort>
+        <ImageDB>
+            Image
+        </ImageDB>
+        <PrinterPort>
+            /dev/ttyS0
+        </PrinterPort>
+        <DisplayPort>
+            /dev/ttyACM0
+        </DisplayPort>
+        <POS>
+            0
+        </POS>
+        <coop>
+            1
+        </coop>
+    </branches>
+</data>
